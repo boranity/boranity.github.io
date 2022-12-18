@@ -39,11 +39,6 @@ enableEmoji = true
   html_attributes = "rel=\"me\""
 
   [[params.socialIcons]]
-  name = "reddit"
-  url = "https://www.reddit.com/user/Boranity0"
-  html_attributes = "rel=\"me\""
-
-  [[params.socialIcons]]
   name = "github"
   url = "https://github.com/boranityy"
   html_attributes = "rel=\"me\""
