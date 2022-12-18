@@ -1,0 +1,69 @@
+baseURL = 'http://boranityy.github.io/'
+title = 'Boranity'
+theme = 'PaperMod'
+paginate = "5"
+DefaultContentLanguage = "tr"
+metaDataFormat = "yaml"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[params]
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  rss = true
+  comments = false
+  defaultTheme = "auto"
+  env = "production"
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  UseHugoToc = true
+  ShowPostNavLinks = true
+
+  [params.homeInfoParams]
+  Title = "Boranity's Blog..."
+  Content = "Linux, özgür yazılım içerikleri ve hayatımdan günlük olayları, kesitleri de paylaşacağım bir blog sayfası."
+
+  [[params.socialIcons]]
+  name = "telegram"
+  url = "https://t.me/boranity"
+  html_attributes = "rel=\"me\""
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/boranitys"
+  html_attributes = "rel=\"me\""
+
+  [[params.socialIcons]]
+  name = "reddit"
+  url = "https://www.reddit.com/user/Boranity0"
+  html_attributes = "rel=\"me\""
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/boranityy"
+  html_attributes = "rel=\"me\""
+
+
+  [[params.socialIcons]]
+  name = "mastodon"
+  url = "https://mastodon.com.tr/@boranity"
+  html_attributes = "rel=\"me\""
+
+  [[params.socialIcons]]
+  name = "RsS"
+  url = "index.xml"
+
+
+[Author]
+  name = "Boranity"
+  telegram = "@boranity"
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
