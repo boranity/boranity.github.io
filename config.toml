@@ -11,6 +11,12 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 
+[[menu.main]]
+    name = "Bilgi"
+    url = "about/about/"
+    weight = 2
+
+
 [params]
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -48,6 +54,7 @@ enableEmoji = true
   name = "mastodon"
   url = "https://mastodon.com.tr/@boranity"
   html_attributes = "rel=\"me\""
+
 
   [[params.socialIcons]]
   name = "RsS"
