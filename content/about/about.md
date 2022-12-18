@@ -2,7 +2,7 @@
 ShowReadingTime: false
 ---
 # Ben Kimim
-Merhabalar, Ben Boranity yani Boran 16 yaşındayım Linux ve Linux Sunucuları ile ilgilenmeyi seviyorum ve zaman buldukça yazılım konusunda kendimi geliştiriyorum. Üniversite de Yönetim Bilişim Sistemleri bölümünü okuyacağım. Benimle iletişim kurabilmek için ana sayfadan telegram adresimden bana mesaj bırakabilirsiniz.
+Merhabalar, ben Boranity yani Boran 16 yaşındayım Linux ve Linux Sunucuları ile ilgilenmeyi seviyorum ve zaman buldukça yazılım konusunda kendimi geliştiriyorum. Üniversite de Yönetim Bilişim Sistemleri bölümünü okuyacağım. Benimle iletişim kurabilmek için ana sayfadan telegram adresimden bana mesaj bırakabilirsiniz.
 
 
 # Site Hakkında
