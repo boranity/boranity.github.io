@@ -3,7 +3,6 @@ title: Böyle Bir Siteye Sahip Olmak İster Misiniz?
 date: 2022-12-17
 tags: ["hugo"]
 draft: false
-showtoc: true
 ---
 # Github Pages Üzerinde Hugo
 Herkese selam, uzun uğraşlar sonucu Hugo'yu halledebildim bugün ise github-pages üzerinde Hugo kurulumunu anlatacağım.

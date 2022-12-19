@@ -3,9 +3,7 @@ title: Terminalde veya Discord Webhook'unuzda Güncel Döviz Kurlarını Görün
 date: 2022-12-18
 tags: ["python", "foss"]
 draft: false
-showtoc: true
 ---
-_İlk yazımız da kendi projemi tanıtmak istedim_
 
 [Proje linki](https://github.com/boranityy/doviz-kurlari)
 
