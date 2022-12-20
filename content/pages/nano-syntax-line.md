@@ -4,9 +4,9 @@ date: 2022-12-19
 tags: ["linux", "nano"]
 draft: false
 ---
+`/etc/nanorc`nano config dosyamızı root yetkileriyle açıp aşağıdaki düzenlemeleri yapın.
 
 # Line Number Açma
-
 74-75 satırda olan `# set linenumbers`'ın başındaki # etiketini kaldırın.
 ```
  ## Display line numbers to the left (and any anchors in the margin).
