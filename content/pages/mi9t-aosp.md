@@ -1,6 +1,6 @@
 ---
 title: MI 9T/K20 (davinci) AOSP ROM Performance
-date: 2022-12-18
+date: 2022-12-29
 tags: ["android", "aosp"]
 draft: false
 ---
