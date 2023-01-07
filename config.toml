@@ -12,9 +12,29 @@ buildExpired = false
 enableEmoji = true
 
 [[menu.main]]
+    name = "Arama"
+    url = "search/"
+    weight = 10
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title"]
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
     name = "Bilgi"
-    url = "about/about/"
+    url = "about/"
     weight = 2
+
+
+
 
 
 [params]
