@@ -33,8 +33,10 @@ home = [ "HTML", "RSS", "JSON" ]
     url = "about/"
     weight = 2
 
-
-
+[[menu.main]]
+    name = "Etiketler"
+    url = "tags/"
+    weight = 3
 
 
 [params]
