@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Boranity</title>
-    <link>http://boranityy.github.io/</link>
-    <description>Recent content on Boranity</description>
+    <title>linux on Boranity</title>
+    <link>http://boranityy.github.io/tags/linux/</link>
+    <description>Recent content in linux on Boranity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://boranityy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://boranityy.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bash Script İle Pomodoro Aracı</title>
       <link>http://boranityy.github.io/pages/bashdoro/</link>
@@ -27,15 +27,6 @@ toilet mplayer paketlerini yüklemeniz gerekmekte. </description>
       <guid>http://boranityy.github.io/pages/pulseaudio-gurultu-engelleme/</guid>
       <description>PulseAudio için mikrofonda gürültü nasıl engellenir buna kısaca değineceğim. &amp;lsquo;sudo nano /etc/pulse/default.pa&amp;rsquo; config dosyasının içine girip en alta bu kodları ekliyoruz.
 load-module module-filter-heuristics load-module module-filter-apply load-module module-echo-cancel aec_args=&amp;#34;analog_gain_control=0 digital_gain_control=0&amp;#34; Ondan sonra pulseaudio -k komutunu çalıştırıyoruz ses ayarlarından mikrofon için (echo cancelled) ile başlayanı seçiyoruz. Herkeste aynı etkiyi gösterecek diye durum yok tabii ki eğer hoşunuza gitmezse ses, pulseeffects aracını indirip ekolayzer yapabilirsiniz.</description>
-    </item>
-    
-    <item>
-      <title>MI 9T/K20 (davinci) AOSP ROM Performance</title>
-      <link>http://boranityy.github.io/pages/mi9t-aosp/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://boranityy.github.io/pages/mi9t-aosp/</guid>
-      <description>MIUI is garbage, thats how i want to start this sentence. I didnt notice much difference in screen on time. RiceDroid, Derpfest, Lineage OS, CherishOS are my fav roms for this device. These roms developed for privacy purposes such as CalyxOS, DivestOS are unofficial ports for MI 9T. I guess i dont need to talk about speed :D. There are plenty of GCAM mods and XML for GCAM. Magisk works without any problems, as far as i heard magisk can cause problems in some Xiaomi devices.</description>
     </item>
     
     <item>
@@ -71,41 +62,6 @@ Syntax Highlighting Açma 241-242 satırda olan # include &amp;quot;/usr/share/n
       <guid>http://boranityy.github.io/pages/linuxta-chromium-dark-mode/</guid>
       <description>Kısa bir içerik olacak fakat Chromium tarayıcıların bazılarında ayarlarda koyu modu açamıyorsunuz bunlardan biri Google Chrome. Bu kodu terminaliniz de çalıştırınız. Örnek olarak Google Chrome için kod paylaşacağım. google-chrome-stable yazan yeri kullandığınız tarayıca göre düzenleyebilirsiniz eğer yapamazsanız ana sayfadan bana telegramdan ulaşabilirsiniz.
 sudo sed -i &amp;#39;s;/usr/bin/google-chrome-stable;/usr/bin/google-chrome-stable --enable-features=WebUIDarkMode --force-dark-mode;g&amp;#39; /usr/share/applications/google-chrome.desktop </description>
-    </item>
-    
-    <item>
-      <title>Terminalde veya Discord Webhook&#39;unuzda Güncel Döviz Kurlarını Görüntüleme ve Hesaplama</title>
-      <link>http://boranityy.github.io/pages/python-doviz-kurlari/</link>
-      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://boranityy.github.io/pages/python-doviz-kurlari/</guid>
-      <description>Proje linki
-Öncelikle bu araç için bir kaç modül yüklemeniz gerekmekte
-pip3 install requests pip3 install bs4 Opsiyonel Olarak Discord Webhook&amp;rsquo;una bastırmak istiyorsanız yüklemeniz gereken modül (Webhook URL&amp;rsquo;nizi 190. satırdan ekleyebilirsiniz!)
-pip3 install discord-webhook Resimler </description>
-    </item>
-    
-    <item>
-      <title>Böyle Bir Siteye Sahip Olmak İster Misiniz?</title>
-      <link>http://boranityy.github.io/pages/hugo-kurulumu/</link>
-      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://boranityy.github.io/pages/hugo-kurulumu/</guid>
-      <description>Github Pages Üzerinde Hugo Herkese selam, uzun uğraşlar sonucu Hugo&amp;rsquo;yu halledebildim bugün ise github-pages üzerinde Hugo kurulumunu anlatacağım.
-1-) Github Deposu Oluşturma Github üzerinde kullanıcıadı.github.io şeklinde yeni bir repo oluşturuyoruz.
-2-) Hugo Kurulumu Linux kullanıyorsanız paket yöneticinizi kullanarak Hugo paketini yükleyin.
-Arch : sudo pacman -S hugo Debian / Ubuntu : sudo apt install hugo Fedora : sudo dnf install hugo Gentoo : sudo emerge --ask www-apps/hugo OpenSUSE : sudo zypper in hugo 3-) Git Kurulumu Linux kullanıyorsanız paket yöneticinizi kullanarak Git paketini yükleyin.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://boranityy.github.io/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://boranityy.github.io/about/about/</guid>
-      <description>Ben Kimim Merhabalar, ben Boranity yani Boran 16 yaşındayım Linux ve Linux Sunucuları ile ilgilenmeyi seviyorum ve zaman buldukça yazılım konusunda kendimi geliştiriyorum. Üniversite de Yönetim Bilişim Sistemleri bölümünü okuyacağım. Benimle iletişim kurabilmek için ana sayfadan telegram adresimden bana mesaj bırakabilirsiniz.
-Site Hakkında Bu site, Hugo kullanılarak ve PaperMod temasıyla MIT lisansı altında özgür yazılım ilkeleriyle oluşturulmuş, Github sunucuları üzerinden yayınlanmaktadır. Kaynak koduna buradan ulaşabilirsiniz.
-Sitenin burada belirtilen &amp;ldquo;yazılımlar&amp;rdquo; haricindeki her türlü içeriği, eser sahibi &amp;ldquo;Boranity&amp;rdquo; tarafından oluşturulmuş ve MIT lisansı ile yayınlanmıştır</description>
     </item>
     
   </channel>

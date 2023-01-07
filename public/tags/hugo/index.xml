@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Boranity</title>
+    <link>http://boranityy.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Boranity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://boranityy.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Böyle Bir Siteye Sahip Olmak İster Misiniz?</title>
+      <link>http://boranityy.github.io/pages/hugo-kurulumu/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://boranityy.github.io/pages/hugo-kurulumu/</guid>
+      <description>Github Pages Üzerinde Hugo Herkese selam, uzun uğraşlar sonucu Hugo&amp;rsquo;yu halledebildim bugün ise github-pages üzerinde Hugo kurulumunu anlatacağım.
+1-) Github Deposu Oluşturma Github üzerinde kullanıcıadı.github.io şeklinde yeni bir repo oluşturuyoruz.
+2-) Hugo Kurulumu Linux kullanıyorsanız paket yöneticinizi kullanarak Hugo paketini yükleyin.
+Arch : sudo pacman -S hugo Debian / Ubuntu : sudo apt install hugo Fedora : sudo dnf install hugo Gentoo : sudo emerge --ask www-apps/hugo OpenSUSE : sudo zypper in hugo 3-) Git Kurulumu Linux kullanıyorsanız paket yöneticinizi kullanarak Git paketini yükleyin.</description>
+    </item>
+    
+  </channel>
+</rss>
