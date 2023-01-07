@@ -1,6 +1,6 @@
 ---
 title: Bash Script İle Pomodoro Aracı
-date: 2022-12-17
+date: 2023-07-01
 tags: ["linux", "proje"]
 draft: false
 ---
