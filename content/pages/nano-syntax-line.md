@@ -1,7 +1,7 @@
 ---
 title: Nano Syntax Highlighting ve Line Number Nasıl Açılır
 date: 2022-12-19
-tags: ["linux", "nano"]
+tags: ["linux"]
 draft: false
 ---
 `/etc/nanorc`nano config dosyamızı root yetkileriyle açıp aşağıdaki düzenlemeleri yapın.

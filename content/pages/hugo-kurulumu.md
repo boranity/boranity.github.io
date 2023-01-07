@@ -1,7 +1,7 @@
 ---
 title: Böyle Bir Siteye Sahip Olmak İster Misiniz?
 date: 2022-12-17
-tags: ["hugo"]
+tags: ["proje"]
 draft: false
 ---
 # Github Pages Üzerinde Hugo

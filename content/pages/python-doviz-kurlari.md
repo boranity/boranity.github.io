@@ -1,7 +1,7 @@
 ---
 title: Terminalde veya Discord Webhook'unuzda Güncel Döviz Kurlarını Görüntüleme ve Hesaplama
 date: 2022-12-18
-tags: ["python", "proje"]
+tags: ["proje"]
 draft: false
 ---
 

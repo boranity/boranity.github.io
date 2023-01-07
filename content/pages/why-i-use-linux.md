@@ -1,7 +1,7 @@
 ---
 title: First English Post | Why i use Linux?
 date: 2022-12-28
-tags: ["linux", "english"]
+tags: ["linux"]
 draft: false
 ---
 I can occasionally post articles in English. In this post i will briefly talk about why i use linux.
