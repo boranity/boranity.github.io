@@ -10,7 +10,7 @@ https://github.com/boranityy/bashdoro
 
 # Kullanım
 
-`bash pomodoro.sh` komutu ile çalışır.
+`bash bashdoro.sh` komutu ile çalışır.
 
 Paket yöneticiniz ile
 ```fish
