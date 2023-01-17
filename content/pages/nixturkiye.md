@@ -1,5 +1,5 @@
 ---
-title: *Nix Turkiye Telegram Grubumuz
+title: Nix Türkiye Telegram Grubumuz
 date: 2023-01-16
 tags: ["konu disi"]
 draft: false
