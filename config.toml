@@ -1,4 +1,4 @@
-baseURL = 'http://boranityy.github.io/'
+baseURL = 'http://boranity.github.io/'
 title = 'Boranity'
 theme = 'PaperMod'
 paginate = "5"
