@@ -68,7 +68,7 @@ home = [ "HTML", "RSS", "JSON" ]
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/boranityy"
+  url = "https://github.com/boranity"
   html_attributes = "rel=\"me\""
 
 
